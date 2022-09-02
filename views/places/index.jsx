@@ -23,7 +23,7 @@ function index (data) {
     return (
       <Def>
           <main>
-              <h1>PLACES INDEX PAGE</h1>
+              <h1>Places to Rave About</h1>
               {placesFormatted}
           </main>
       </Def>
